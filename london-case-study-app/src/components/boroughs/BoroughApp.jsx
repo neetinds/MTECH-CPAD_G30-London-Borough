@@ -37,7 +37,7 @@ class BoroughApp extends Component{
 }
 
 function ErrorPage(){
-    return <div>Page Not Found</div>
+    return <div>Page Not Found. Contact Support</div>
 }
 
 export default BoroughApp;
